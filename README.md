@@ -1,4 +1,3 @@
-# This was a test task for Senior Java Developer position.
 # Reference Documentation:
 This app is designed to calculate search volume score of search keyword.
 
